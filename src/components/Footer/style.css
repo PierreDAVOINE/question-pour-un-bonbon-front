@@ -1,0 +1,10 @@
+/* ========== HEADER ========== */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 1rem;
+  background-color: rgb(26, 26, 255);
+  color: white;
+}
