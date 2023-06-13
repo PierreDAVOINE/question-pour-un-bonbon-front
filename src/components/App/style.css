@@ -1,4 +1,5 @@
-/* ======== APP ======== */
-/* .app {
-  padding: 1.5rem 1rem;
-} */
+/* ======== taillwinds ======== */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
